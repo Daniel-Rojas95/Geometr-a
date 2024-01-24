@@ -9,11 +9,13 @@ class Rectangulo:
     def __str__(self):
         return f"Rectangulo de largo {self.largo} y ancho {self.ancho}"
 
-    def calcular_area(self):
+    def Area(self):
         #Completar
-        pass
-    def calcular_perimetro(self):
-        pass
+        return(self.largo*self.ancho)
+    def Perimetro(self):
+        return 2*(self.largo+self.ancho)
+        
+
     
 
 
