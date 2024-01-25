@@ -24,3 +24,6 @@ print(obj_poly_1)
 print(f"Num Lados: {obj_poly_1.numLado }")
 
 print(f"Num lados: {obj_poly_1.numLado}")
+
+
+"Clase prueba"
